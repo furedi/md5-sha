@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## [](#header-2)Abstarct
+## [](#header-2)Abstract
 
 The MD5-SHA checker program calculates and compares the selected hash code type of the choosed file. The Java program uses the MessageDigest class, and runs width jre1.8.0_131.
 
