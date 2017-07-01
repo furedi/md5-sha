@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: MD5-SHA
-description: [A short description of your site's purpose]
+description: [MD5, SHA-1, SHA-256, SHA-384, SHA-512 checker]
 show_downloads: true
 google_analytics:
