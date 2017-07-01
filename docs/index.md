@@ -3,7 +3,7 @@ layout: default
 ---
 ## [](#header-2)Abstract
 
-The MD5-SHA checker program calculates and compares the selected hash code type of the choosed file. The Java program uses the MessageDigest class, and runs width jre1.8.0_131.
+The MD5-SHA checker program calculates and compares the selected hash code type of the choosed file. This Java program uses the MessageDigest class, and runs width jre1.8.0_131.
 
 1.  Choose a file or type the path and file name.
 2.  Copy or type the added hash code.
