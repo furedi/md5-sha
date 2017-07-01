@@ -9,5 +9,3 @@ Runnable jar file. You can check the MD5 or SHA hash codes after downloading fro
 
 ## docs folder
 Files for [MD5-SHA](https://furedi.github.io/md5-sha/) GitHub pages.
-
-GitHub pages [slate themes](https://github.com/pages-themes/slate)
