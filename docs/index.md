@@ -8,7 +8,7 @@ The MD5-SHA checker program calculates and compares the selected hash code of th
 ### [](#header-3)How to check hash codes?
 1.  Choose a file or type the path and file name.
 2.  Copy or type the added hash code.
-3.  Calculate and check the hash value.
+3.  Calculate and check the selected hash value.
 
 ### [](#header-3)If the typed and calculated hash values are the same:
 ![](./assets/images/match.png?raw=true)
