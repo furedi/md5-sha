@@ -7,3 +7,6 @@ This Eclipse folder includes the Java source codes and binaries.
 ## md5hash.jar
 Runnable jar file.
 You can check the MD5 or SHA codes after downloading from the net. 
+
+## GitHub pages
+https://github.com/pages-themes/slate
