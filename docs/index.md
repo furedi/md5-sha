@@ -6,10 +6,10 @@ layout: default
 The MD5-SHA checker program calculates and compares the selected hash code of the downloaded file. The program uses Java Runtime Enviroment.
 
 ## [](#header-3)If the typed and calculated hash values are the same
-![](./images/match.png?raw=true)
+![](./assets/images/match.png?raw=true)
 
 ## [](#header-3)And the two hash values are different:
-![](./images/mismatch.png?raw=true)
+![](./assets/images/mismatch.png?raw=true)
 
 # MEMO
 
