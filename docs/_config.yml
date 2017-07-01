@@ -1,6 +1,5 @@
 theme: jekyll-theme-slate
-gem "github-pages", group: :jekyll_plugins
-title: [The title of your site]
+title: MD5-SHA
 description: [A short description of your site's purpose]
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+show_downloads: true
+google_analytics:
