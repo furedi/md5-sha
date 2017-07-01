@@ -9,7 +9,7 @@ The MD5-SHA checker program calculates and compares the selected hash code of th
 2.  Copy or type the added hash code.
 3.  Calculate and check the hash value.
 
-### [](#header-3)If the typed and calculated hash values are the same
+### [](#header-3)If the typed and calculated hash values are the same:
 ![](./assets/images/match.png?raw=true)
 
 ### [](#header-3)And the two hash values are different:
