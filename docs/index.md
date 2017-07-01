@@ -3,7 +3,7 @@ layout: default
 ---
 ## [](#header-2)Abstract
 
-The MD5-SHA checker program calculates and compares the selected hash code of the choosed file. This Java program uses the [MessageDigest](https://docs.oracle.com/javase/7/docs/api/java/security/MessageDigest.html) class, and generate MD5, SHA-1, SHA-256, SHA-384, SHA-512 hash codes. The bytecode runs width jre1.8.0_131.
+The MD5-SHA checker program calculates and compares the selected hash code of the choosed file. This Java program uses the [MessageDigest](https://docs.oracle.com/javase/7/docs/api/java/security/MessageDigest.html) class, and generate MD5, SHA-1, SHA-256, SHA-384, SHA-512 hash codes. The **md5hash.jar** code runs width jre1.8.0_131.
 
 1.  Choose a file or type the path and file name.
 2.  Copy or type the added hash code.
