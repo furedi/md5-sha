@@ -8,5 +8,8 @@ This Eclipse folder includes the Java source codes and binaries.
 Runnable jar file.
 You can check the MD5 or SHA codes after downloading from the net. 
 
+## docs folder
+Files for [MD5-SHA](https://furedi.github.io/md5-sha/) GitHub page.
+
 ## GitHub pages
 https://github.com/pages-themes/slate
