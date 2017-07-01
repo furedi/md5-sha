@@ -2,7 +2,7 @@
 MD5,  SHA-1, SHA-256, SHA-384, SHA-512 checker
 
 ## md5hash folder
-This Eclipse folder includes the Java source codes and binaries.
+This Eclipse folder includes the Java source codes, binaries and the runnable md5hash.jar file.
 
 ## md5hash.jar
 Runnable jar file.
