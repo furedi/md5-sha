@@ -15,4 +15,4 @@ The MD5-SHA checker program calculates and compares the selected hash code type 
 ### [](#header-3)And the two hash values are different:
 ![](./assets/images/mismatch.png?raw=true)
 
-GitHub Pages Theme: [Link to slate page themes](https://github.com/pages-themes/slate).
+GitHub Pages: [Link to slate page themes](https://github.com/pages-themes/slate).
