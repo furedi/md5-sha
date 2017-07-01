@@ -6,7 +6,7 @@ layout: default
 The MD5-SHA checker program calculates and compares the selected hash code of the downloaded file. The program uses Java Runtime Enviroment.
 
 
-# MEMO ====================
+# MEMO
 
 ## [](#header-2)Header 2
 
