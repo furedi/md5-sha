@@ -120,5 +120,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
 [Link to slate page themes](https://github.com/pages-themes/slate).
+```
