@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-# [](#header-1)Introduction
+# [](#header-1)Abstarct
 
-The MD5-SHA checker program calculates and compares the selected hash code of the downloaded file. The program uses Java Runtime Enviroment.
+The MD5-SHA checker program calculates and compares the selected hash code type of the downloaded file. The Java program uses the MessageDigest class and runs width jre1.8.0_131.
 
 ## [](#header-3)If the typed and calculated hash values are the same
 ![](./assets/images/match.png?raw=true)
