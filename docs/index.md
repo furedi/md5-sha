@@ -9,7 +9,7 @@ The MD5-SHA checker program calculates and compares the selected hash code of th
 ![](https://github.com/furedi/md5-sha/blob/master/docs/img/match.png)
 
 ## [](#header-2)And the two hash values are different:
-![](https://github.com/furedi/md5-sha/blob/master/docs/img/match.png)
+![](https://github.com/furedi/md5-sha/blob/master/docs/img/mismatch.png)
 
 # MEMO
 
