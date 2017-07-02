@@ -2,4 +2,4 @@ theme: jekyll-theme-slate
 title: MD5-SHA
 description: Generator and checker
 show_downloads: true
-google_analytics:
+google_analytics: UA-101982641-1
