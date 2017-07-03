@@ -1,6 +1,6 @@
 # [md5-sha](https://furedi.github.io/md5-sha/) GitHub Pages
 
-:arrow_right:[Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+[Basic writing and *formatting* syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 Jekyll  blog-aware and static site generator:
 - https://jekyllrb.com/
